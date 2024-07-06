@@ -1,6 +1,12 @@
-B--[[
+--[[
     Githubissues.gg | Better than you
     https://pastebin.com/vZJSssLm
+        ================
+    Dependencies: 
+    - Roblox Executer ( level 3 / level 7 )
+    - Roblox API (also known as roblox's luau)
+    - skills (Required so you wont get reported lol)
+            
 ]]
 -- Instances:
 
