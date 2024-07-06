@@ -1,4 +1,4 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/nyulachan/nyula/main/nyuladhm"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/nyulachan/nyula/main/nyuladh"))()
 ---------- AIMBOT -------------
 getgenv().keytoclick = "Q"
 tool = Instance.new("Tool")
